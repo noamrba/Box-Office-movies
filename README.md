@@ -1,1 +1,1 @@
-Download files in C directoory
+Download images in folder named [photos] in the project folder
